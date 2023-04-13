@@ -1,0 +1,58 @@
+﻿@model APP_BLL.ViewModel.AddBookViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>AddBook</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="addBook.Title" class="control-label"></label>
+                <input asp-for="addBook.Title" class="form-control" />
+                <span asp-validation-for="addBook.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="addBook.Isbn" class="control-label"></label>
+                <input asp-for="addBook.Isbn" class="form-control" />
+                <span asp-validation-for="addBook.Isbn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="addBook.ReleaseDate" class="control-label"></label>
+                <input asp-for="addBook.ReleaseDate" class="form-control" />
+                <span asp-validation-for="addBook.ReleaseDate" class="text-danger"></span>
+            </div>
+            @if (Model.authorBooks != null)
+            {
+                <div class="form-group">
+                    <label asp-for="addBook.AuthorsId" class="control-label"></label>
+                    <div>
+                        @foreach (var author in Model.authorBooks)
+                        {
+                            <input class="form-check-input" id="@author.AuthorId" type="checkbox" name="authorsIds" value="@author.AuthorId" />
+                            <label class="form-check-label" for="@author.AuthorId">
+                                @author.FullName
+                            </label>
+                            <br />
+                        }
+                    </div>
+                    <span asp-validation-for="addBook.AuthorsId" class="text-danger"></span>
+                </div>
+            }
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

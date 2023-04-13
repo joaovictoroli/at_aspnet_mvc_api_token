@@ -1,0 +1,69 @@
+﻿@model APP_BLL.ViewModel.DetailsBookViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Book</h1>
+
+<div>
+    <h4>DetailsBookViewModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Isbn)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Isbn)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+    </dl>
+
+    <h2>Autor(res): </h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Author Id
+
+                </th>
+                <th>
+                    Full Name
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var authorbook in Model.AuthorBook)
+            {
+                    <tr>
+                        <td>
+                        @authorbook.AuthorId
+                        </td>
+                        <td>
+                        @authorbook.AuthorName
+                        </td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

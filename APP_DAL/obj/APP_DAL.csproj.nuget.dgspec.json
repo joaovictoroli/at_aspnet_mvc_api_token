@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_DAL\\APP_DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_BLL\\APP_BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_BLL\\APP_BLL.csproj",
+        "projectName": "APP_BLL",
+        "projectPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_BLL\\APP_BLL.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_DAL\\APP_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_DAL\\APP_DAL.csproj",
+        "projectName": "APP_DAL",
+        "projectPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_DAL\\APP_DAL.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_BLL\\APP_BLL.csproj": {
+                "projectPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AT ENTREGAVEIS\\ASPNET\\AT_ASPNETMVC\\APP_BLL\\APP_BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

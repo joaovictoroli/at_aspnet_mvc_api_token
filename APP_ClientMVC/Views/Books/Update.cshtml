@@ -1,0 +1,89 @@
+﻿@model APP_BLL.ViewModel.EditBookViewModel
+
+@{
+    ViewData["Title"] = "Update Book";
+}
+
+<h2>Update Book <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+
+<form asp-action="Update">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Id" class="control-label"></label>
+        <input asp-for="Id" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Title" class="control-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Isbn" class="control-label"></label>
+        <input asp-for="Isbn" class="form-control" />
+        <span asp-validation-for="Isbn" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ReleaseDate" class="control-label"></label>
+        <input asp-for="ReleaseDate" class="form-control" />
+        <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+    </div>
+    @if (Model.AuthorBook != null)
+    {
+        <div class="form-group">
+            <label asp-for="AuthorsId" class="control-label"></label>
+            <div>
+                @foreach (var author in Model.AuthorBook)
+                {
+                    <input class="form-check-input" id="@author.AuthorId" type="checkbox" name="authorsIds" value="@author.AuthorId" />
+                    <label class="form-check-label" for="@author.AuthorId">
+                        @author.FullName
+                    </label>
+                    <br />
+                }
+            </div>
+            <span asp-validation-for="AuthorsId" class="text-danger"></span>
+        </div>
+    }
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+
+
+@if (ViewBag.Result == "Success")
+{
+    <h2>Friend</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th>Isbn</th>
+                <th>ReleaseDate</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.Title</td>
+                <td>@Model.Isbn</td>
+                <td>@Model.ReleaseDate.ToString("dd/M/yyyy")</td>
+            </tr>
+        </tbody>
+    </table>
+}
+
+@if (ViewBag.Result == "Failure")
+{
+    <h1>Book requires Author.</h1>
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

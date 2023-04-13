@@ -1,0 +1,36 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\refint\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\ref\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\refint\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\ref\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\bin\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\refint\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_BLL\obj\Debug\net6.0\ref\APP_BLL.dll

@@ -1,0 +1,51 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.CopyComplete
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\refint\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\ref\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.CopyComplete
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\refint\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\ref\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\bin\Debug\net6.0\APP_BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.csproj.CopyComplete
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\refint\APP_DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\APP_DAL.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\AT ENTREGAVEIS\ASPNET\AT_ASPNETMVC\APP_DAL\obj\Debug\net6.0\ref\APP_DAL.dll
